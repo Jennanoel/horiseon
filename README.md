@@ -1,8 +1,11 @@
 # Horiseon
 A webpage with updated accessibility through the refactor of HTML and CSS codes.
 
-## Refactor
-Refactor the HTML code to follow semantic HTML and align the CSS code to allow the page to load as a fully functional webpage.
+## HTML
+Upon viewing the source code you can recognize the updated semantic HTML code, allowing a more clean appearance to the code.
+
+## CSS
+The updated CSS code is properly aligned to the updated semantic HTML code, allowing all stylizations to appear on the deployed site.
 
 ## Visuals
 Upon deployment the page should appear like this:
